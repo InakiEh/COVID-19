@@ -2,4 +2,4 @@
 
 Python / Pandas </br>
 
-Software to extract information from the government´s covid-19 github repository.
+Script to extract information from the government´s covid-19 github repository.
