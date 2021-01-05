@@ -1,5 +1,5 @@
-# Covid-19
+# COVID-19
 
 Python / Pandas </br>
 
-Script to extract information from the government´s covid-19 github repository.
+Script to extract information from the government´s COVID-19 github repository.
